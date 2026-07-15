@@ -1,0 +1,2 @@
+# ABP-Based-SPI-Master-Controller-Verification-using-SystemVerilog
+This project focuses on verifying an SPI Master connected through an APB interface. A SystemVerilog verification environment was developed to validate register operations, SPI transactions, FIFO behavior, interrupts, and clock configuration using directed and randomized tests, BFMs, assertions, a reference model, and functional coverage.
