@@ -1,0 +1,16 @@
+
+./harness/apb_if.sv
+./harness/spi_if.sv
+
+./golden_rtl/spi_core.sv
+./golden_rtl/apb_regfile.sv
+./golden_rtl/spi_master.sv
+
+./harness/dut_wrapper.sv
+
+./tb/apb_master_bfm.sv
+./tb/spi_slave_bfm.sv
+
+./assertions/spi_sva.sv
+
+./tb/tb_top.sv
